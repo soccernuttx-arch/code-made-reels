@@ -1,0 +1,8 @@
+# generated: renders, previews, voice audio, downloaded fonts
+films/*/out/
+films/*/stills*/
+films/*/voices/*.mp3
+films/*/fonts/*.ttf
+node_modules/
+__pycache__/
+.env

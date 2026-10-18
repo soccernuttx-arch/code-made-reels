@@ -1,0 +1,33 @@
+[
+  {
+    "id": "hook",
+    "text": "What's the capital of Hell called?"
+  },
+  {
+    "id": "word",
+    "text": "Pandemonium.",
+    "rate": "+0%"
+  },
+  {
+    "id": "milton",
+    "text": "John Milton made it up in 1667.",
+    "say": "John Milton made it up in sixteen sixty-seven."
+  },
+  {
+    "id": "etym",
+    "text": "Pan, all. Daimon, demon. The place of all demons.",
+    "say": "Pan: all. Daimon: demon. The place of all demons."
+  },
+  {
+    "id": "today",
+    "text": "Today, it means a wild uproar."
+  },
+  {
+    "id": "example",
+    "text": "The group chat became pandemonium when you sent that screenshot."
+  },
+  {
+    "id": "share",
+    "text": "Comment pandemonium to get my GitHub repo for videos like this."
+  }
+]
